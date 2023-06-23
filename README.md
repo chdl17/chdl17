@@ -6,13 +6,14 @@
 Ahoy there! I'm Maruthi, the reigning force behind the Creative Hustle Dynamic Leader (CHDL) movement. As a passionate data engineer and machine learning maestro with 4+ years of professional prowess, I'm here to embark on thrilling adventures in the realm of data-driven enchantment.
 
 **Embrace the CHDL Magic**
-🎩 Harnessing the Art of Creative Hustle: I channel my boundless creativity and unwavering determination to craft remarkable data engineering solutions. With every line of code, I strive to weave a tapestry of innovation, pushing the boundaries of what's possible.
 
-**⚡️ Unleashing Dynamic Leadership:** Leading by example, I inspire and empower fellow data enthusiasts to unleash their full potential. Through my visionary guidance and infectious enthusiasm, I foster a culture of collaboration and transformation.
+- **🎩 Harnessing the Art of Creative Hustle:** I channel my boundless creativity and unwavering determination to craft remarkable data engineering solutions. With every line of code, I strive to weave a tapestry of innovation, pushing the boundaries of what's possible.
 
-**🌌 Wizardry in Data Engineering:** Armed with the arcane knowledge of data manipulation, ETL sorcery, and scalable pipeline creation, I orchestrate data engineering marvels. From taming vast datasets to sculpting elegant architectures, I manifest data's latent power.
+- **⚡️ Unleashing Dynamic Leadership:** Leading by example, I inspire and empower fellow data enthusiasts to unleash their full potential. Through my visionary guidance and infectious enthusiasm, I foster a culture of collaboration and transformation.
 
-**🧙‍♂️ Mastery in Machine Learning:** Delving into the realms of machine learning, I master the mystical algorithms and summon the hidden insights that lie within the data's depths. Whether it's building predictive models or unraveling complex patterns, I harness the very essence of AI.
+- **🌌 Wizardry in Data Engineering:** Armed with the arcane knowledge of data manipulation, ETL sorcery, and scalable pipeline creation, I orchestrate data engineering marvels. From taming vast datasets to sculpting elegant architectures, I manifest data's latent power.
+
+- **🧙‍♂️ Mastery in Machine Learning:** Delving into the realms of machine learning, I master the mystical algorithms and summon the hidden insights that lie within the data's depths. Whether it's building predictive models or unraveling complex patterns, I harness the very essence of AI.
 
 **Join the CHDL Adventure**
 The Creative Hustle Dynamic Leader invites fellow adventurers, collaborators, and dream-weavers to embark on this magical expedition together. Let's join forces and craft the future of data engineering and machine learning!
@@ -20,8 +21,6 @@ The Creative Hustle Dynamic Leader invites fellow adventurers, collaborators, an
 Together, we'll create wonders that defy imagination.
 
 Remember, the path ahead is filled with limitless possibilities. So, don your metaphorical cape and get ready to make data dance to the rhythm of your command. Welcome to the realm of the Creative Hustle Dynamic Leader!
-
-
 
 <div class="adventure-container">
   <h2 class="adventure-heading">The Adventure Begins!</h2>
