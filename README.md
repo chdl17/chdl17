@@ -1,4 +1,4 @@
-## Welcome to the Data with the_chdl 👋 
+## Welcome to the Data with The_CHDL 👋 
 
 #### Unleashing the Power of Data Engineering and Machine Learning Wizardry 🚀
 
