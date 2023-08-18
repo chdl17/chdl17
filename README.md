@@ -12,6 +12,8 @@ Together, we'll create wonders that defy imagination.
 
 Remember, the path ahead is filled with limitless possibilities. So, don your metaphorical cape and get ready to make data dance to the rhythm of your command. Welcome to the realm of the Creative Hustle Dynamic Leader!
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chdl17" alt="chdl17" /></a> </p>
+
 - 🔭 I’m currently working on [Mock Interview With AI](https://github.com/chdl17/MockInterviewWithAI)
 
 - 🤝 I’m looking for help with [Mock Interview With AI](https://github.com/chdl17/MockInterviewWithAI)
@@ -29,6 +31,7 @@ Remember, the path ahead is filled with limitless possibilities. So, don your me
 <a href="https://linkedin.com/in/maruthisai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maruthisai" height="30" width="40" /></a>
 <a href="https://medium.com/@chadalapakam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chadalapakam" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@maruthi_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@maruthi_17" height="30" width="40" /></a>
+<a href="/medium.com/feed/@chadalapakam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="medium.com/feed/@chadalapakam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
