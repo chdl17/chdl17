@@ -46,14 +46,6 @@ Remember, the path ahead is filled with limitless possibilities. So, don your me
 </div>
 
 Let's Connect and Unleash Our creativity!
-<div id="badges">
-  <a href="https://www.linkedin.com/in/maruthisai/" class="badge">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:chadalapakam@gmail.com" class="badge">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
 
   <img src="harry_potter.gif" alt="Adventure begins" style="max-width: 300px; display: block; margin: 0 auto;">
 </div>
