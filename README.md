@@ -22,6 +22,13 @@ Remember, the path ahead is filled with limitless possibilities. So, don your me
 
 - 💬 Ask me about **Spark, Python, Big Data, Machine Learning, Career Growth, Business Development**
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maruthisai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maruthisai" height="30" width="40" /></a>
