@@ -24,9 +24,7 @@ Remember, the path ahead is filled with limitless possibilities. So, don your me
 
 # Medium Blogs 📚
 <!-- BLOG-POST-LIST:START -->
-{{range rss "medium.com/feed/@username" 5}}
-    - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-    {{- end}}
+
 <!-- BLOG-POST-LIST:END -->
 
 
