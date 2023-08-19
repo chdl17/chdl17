@@ -22,8 +22,11 @@ Remember, the path ahead is filled with limitless possibilities. So, don your me
 
 - 💬 Ask me about **Spark, Python, Big Data, Machine Learning, Career Growth, Business Development**
 
-# Blog posts
+# Medium Blogs 📚
 <!-- BLOG-POST-LIST:START -->
+{{range rss "medium.com/feed/@username" 5}}
+    - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+    {{- end}}
 <!-- BLOG-POST-LIST:END -->
 
 
