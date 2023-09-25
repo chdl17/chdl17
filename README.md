@@ -33,6 +33,7 @@ Remember, the path ahead is filled with limitless possibilities. So, don your me
 
 <div class="adventure-container">
   <h2 class="adventure-heading">The Adventure Begins!</h2>
+  <img src="https://tenor.com/view/harry-potter-sorcerer-stone-wand-gif-13050462" alt=""/>
 </div>
 
 Let's Connect and Unleash Our creativity!
