@@ -33,7 +33,6 @@ Remember, the path ahead is filled with limitless possibilities. So, don your me
 
 <div class="adventure-container">
   <h2 class="adventure-heading">The Adventure Begins!</h2>
-  <img src="images/harry-potter-sorcerer-stone.gif" alt="Adventure begins" class="adventure-gif">
 </div>
 
 Let's Connect and Unleash Our creativity!
