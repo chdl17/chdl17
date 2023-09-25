@@ -12,11 +12,9 @@ Together, we'll create wonders that defy imagination.
 
 Remember, the path ahead is filled with limitless possibilities. So, don your metaphorical cape and get ready to make data dance to the rhythm of your command. Welcome to the realm of the Creative Hustle Dynamic Leader!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chdl17" alt="chdl17" /></a> </p>
-
 - 🔭 I’m currently working on [Mock Interview With AI](https://github.com/chdl17/MockInterviewWithAI)
 
-- 🤝 I’m looking for help with [Mock Interview With AI](https://github.com/chdl17/MockInterviewWithAI)
+- 🤝 I’m looking for help with job opportunities in the field of Data Engineering and Analytics
 
 - 📝 I regularly write articles on [https://medium.com/@chadalapakam](https://medium.com/@chadalapakam)
 
