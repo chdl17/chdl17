@@ -11,7 +11,7 @@ The Creative Hustle Dynamic Leader invites fellow enthusiasts, collaborators, an
 Let's combine our talents and creativity to achieve extraordinary results. Embrace the endless opportunities ahead, and let's make data work its magic.
 
 - 🔭 Currently working on [Mock Interview With AI](https://github.com/chdl17/MockInterviewWithAI)
-- 🤝 Seeking job opportunities in Data Engineering and Analytics
+- 🤝 Seeking job opportunities in Data Science and Analytics
 - 📝 Regularly writing articles on [Medium](https://medium.com/@chadalapakam)
 - 💬 Ask me about **Spark, Python, Big Data, Machine Learning, Career Growth, Business Development**
 
