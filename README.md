@@ -3,7 +3,7 @@
 ## Harnessing Data Science for Strategic Innovation 🚀
 
 ### Who Am I?
-Hello! I'm Maruthi, a Data Scientist with over 5 years of experience in leveraging data to drive strategic decision-making. My expertise spans across Machine Learning algorithms, Data Engineering, Generative AI, and Large Language Models (LLMs). I’m passionate about developing innovative solutions and applying cutting-edge technologies to solve complex problems.
+Hello! I'm Maruthi, a Data Scientist with over 8 years of experience in leveraging data to drive strategic decision-making. My expertise spans across Machine Learning algorithms, Data Engineering, Generative AI, and Large Language Models (LLMs). I’m passionate about developing innovative solutions and applying cutting-edge technologies to solve complex problems.
 
 Let’s combine our expertise and creativity to unlock new possibilities and make data work its magic.
 
