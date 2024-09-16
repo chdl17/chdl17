@@ -1,19 +1,23 @@
-## Welcome to the Data with The_CHDL 👋 
+# Welcome to Data with The_CHDL 👋
 
-## Power of Data Engineering and Machine Learning Wizardry 🚀
+## Harnessing Data Science for Strategic Innovation 🚀
 
 ### Who Am I?
-Hello! I'm Maruthi, the driving force behind the Creative Hustle Dynamic Leader (CHDL) movement. With over 5 years of professional experience as a data engineer and machine learning expert, I'm dedicated to exploring the fascinating world of data-driven innovation.
+Hello! I'm Maruthi, a Data Scientist with over 5 years of experience in leveraging data to drive strategic decision-making. My expertise spans across Machine Learning algorithms, Data Engineering, Generative AI, and Large Language Models (LLMs). I’m passionate about developing innovative solutions and applying cutting-edge technologies to solve complex problems.
 
-### Join the CHDL Adventure
-The Creative Hustle Dynamic Leader invites fellow enthusiasts, collaborators, and visionaries to join this exciting journey. Together, we'll shape the future of data engineering and machine learning, creating groundbreaking solutions that push the boundaries of what's possible.
-
-Let's combine our talents and creativity to achieve extraordinary results. Embrace the endless opportunities ahead, and let's make data work its magic.
+Let’s combine our expertise and creativity to unlock new possibilities and make data work its magic.
 
 - 🔭 Currently working on [Mock Interview With AI](https://github.com/chdl17/MockInterviewWithAI)
-- 🤝 Seeking job opportunities in Data Science and Analytics
-- 📝 Regularly writing articles on [Medium](https://medium.com/@chadalapakam)
-- 💬 Ask me about **Spark, Python, Big Data, Machine Learning, Career Growth, Business Development**
+- 🤝 Exploring opportunities in Data Science and Analytics
+- 📝 Sharing insights and articles on [Medium](https://medium.com/@chadalapakam)
+- 💬 Ask me about **Machine Learning, Generative AI, Large Language Models, FastAPI, Cloud Platforms (AWS, Azure, GCP), Big Data, PySpark, and ETL**
+
+### Expertise
+- **Data Science** ► Designing and implementing Machine Learning solutions for strategic decision-making
+- **Generative AI & LLM** ► Utilizing advanced AI technologies for innovative applications
+- **FastAPI & Cloud Platforms** (AWS, Azure, GCP) ► Building scalable and efficient data-driven applications
+- **Big Data & PySpark** ► Managing and analyzing large datasets with distributed computing
+- **ETL** ► Developing and optimizing data pipelines for effective data integration
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
